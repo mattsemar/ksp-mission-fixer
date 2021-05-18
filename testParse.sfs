@@ -1,0 +1,34 @@
+GAME
+{
+	version = 1.11.2
+	Title = career_expansion (CAREER)
+	Description = No description available.
+	linkURL = 
+	linkCaption = 
+	Mode = CAREER
+	Status = 1
+	Seed = 1053869286
+	ROCSeed = 1370995093
+	scene = 5
+	editor = None
+	flag = Squad/Flags/kerbin
+	launchID = 181
+	defaultVABLaunchSite = LaunchPad
+	defaultSPHLaunchSite = Runway
+	modded = False
+	envInfo =  - Environment Info - Win32NT 7FFFFFFFFFFFFFFF  Args: KSP_x64.exe -popupwindow - 
+	versionFull = 1.11.2.3077 (WindowsPlayer x64)
+	versionCreated = 1.9.1.2788 (WindowsPlayer x64)
+	RemovedROCs
+	{
+		ROCId = 483075047
+		ROCId = -1701710375
+		ROCId = 483075092
+		ROCId = 1018174514
+		ROCId = -1195534513
+		ROCId = 341226214
+	}
+	CometNames
+	{
+	}
+}
