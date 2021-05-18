@@ -1,5 +1,6 @@
 package com.semarware.ksp;
 
+import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -10,6 +11,7 @@ import java.util.stream.Collectors;
 public class Fixer {
 
     public static void main(String[] args) {
+        System.out.printf("separator %s%n", File.separator);
         if (args.length != 1) {
             System.out.printf("Usage: fixer filename.sfs%n");
             System.exit(1);
